@@ -1,8 +1,0 @@
-unzip terminpilot-agent.zip
-cd terminpilot-agent
-git init
-git add .
-git commit -m "init"
-git branch -M main
-git remote add origin https://github.com/DEINUSER/terminpilot-agent.git
-git push -u origin main
